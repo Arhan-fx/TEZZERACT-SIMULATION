@@ -28,7 +28,7 @@ pip install pygame
 1. Clone this repository to your local machine.
 
    ```bash
-   git clone https://github.com/yourusername/4d-cube-projection.git
+   git clone https://github.com/Arhan-fx/TEZZERACT-SIMULATION.git
    cd 4d-cube-projection
    ```
 
